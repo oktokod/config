@@ -1,0 +1,17 @@
+{
+    "name": "oktokod/config",
+    "description": "Simple PHP Config",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Oktokod\\Config\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Oktokod",
+            "email": "oktokod@protonmail.com"
+        }
+    ],
+    "require": {}
+}
